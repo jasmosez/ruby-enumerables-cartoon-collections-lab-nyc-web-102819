@@ -19,4 +19,5 @@ def find_the_cheese(array_of_strings)
   cheese_types = ["cheddar", "gouda", "camembert"]
   
   #cycle through array_of_strings, for each item compare with cheese_types
+  include?
 end
