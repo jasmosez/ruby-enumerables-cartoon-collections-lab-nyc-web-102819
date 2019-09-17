@@ -17,10 +17,9 @@ end
 def find_the_cheese(array_of_strings)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  i = 0
   
   #cycle through array_of_strings, for each item compare with cheese_types array_of_strings.
-  
+  array_of_strings.find
   {|obj| include?(obj)}
   
 end
